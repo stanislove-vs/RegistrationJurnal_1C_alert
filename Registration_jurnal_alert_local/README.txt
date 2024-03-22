@@ -1,9 +1,9 @@
 ﻿# version: 1.0.
 # Date: 12.03.2024
-# Mod: 13.03.2024
+# Mod: 22.03.2024
 # Description: Отправка сообщений из журнала регистрации 1С в Telegram 
-# Author: Modification Соколов С.В.
-# Logfile: \\sp-qnap\Scriptlog\monitoring_zabbix\49.5. Уведомления журнала регистрации по 1С UT.log
+# Author:  Соколов С.В.
+# Logfile: 
 
 В скрипте registration_jurnal_alert.py используется база данных alerts.db, в которую заносятся
 сообщения отправленные сегодня. Если текст очередного блока уже был ранее отправлен за текущий день, 
